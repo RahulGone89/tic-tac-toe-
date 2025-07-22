@@ -20,11 +20,7 @@ A simple and interactive web-based Tic-Tac-Toe game built using HTML, CSS, and J
 1. Clone or download this repository.
 2. Open the `tic.html` file in your browser.
 
-```sh
-git clone https://github.com/MDineshKarthik/tic-tac-toe.git
-cd tic-tac-toe
-open tic.html  # or double-click 'tic.html' in your file explorer
-```
+
 
 ## Project Structure
 
@@ -48,4 +44,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-- [MDineshKarthik](https://github.com/MDineshKarthik)
+- [GoneRahul]
