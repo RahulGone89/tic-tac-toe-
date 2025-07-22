@@ -16,9 +16,7 @@ A simple and interactive web-based Tic-Tac-Toe game built using HTML, CSS, and J
 - Any modern web browser (Chrome, Firefox, Edge, Safari, etc.)
 
 ### Running the Game
-
-1. Clone or download this repository.
-2. Open the `tic.html` file in your browser.
+1.Open the `tic.html` file in your browser.
 
 
 
